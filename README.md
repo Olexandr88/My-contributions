@@ -2,7 +2,7 @@
 Here is my contributions for Juno Network
 # JUNO Contributions
 I'm administrator of Juno Network Russian Community group created by [PostHuman](https://github.com/Antropocosmist)
-Together (here's the about all Russian Community crypto enthusiast encluding me, [PostHuman](https://github.com/Antropocosmist), [BronBro](https://github.com/CyberObiOne) and others! All things matter. 
+Together (here's the about all Russian Community crypto enthusiast encluding me, [PostHuman](https://github.com/Antropocosmist), [BronBro])(https://github.com/CyberObiOne) and others! All things matter. 
 # My contributions for the [first JUNOHACK participation](https://telegra.ph/My-contributions-for-Ru-Junø-Eco-10-09)
 # My contributions for #MONETA HACK
 - [Here's pinned post](https://t.me/juno_ru/2527) about Juno Ecosystem and how to use it in Russian TG group. 
@@ -35,7 +35,7 @@ Together (here's the about all Russian Community crypto enthusiast encluding me,
 # Medium Articles 
 - [RAW Blackpaper RU translation Medium article](https://link.medium.com/d8Q7dCEdcnb)
 - [Here's the Russian translation of #MONETA hack terms and rules](https://medium.com/@Medniyy/moneta-hacks-открывая-инновации-на-совместимой-сети-смарт-контрактов-junø-9ac7426808be)
-# Twitter content creation (graphics, video, threads) 
+# X (Twitter) content creation (graphics, video, threads) 
 - News <br />
 [1-Juno](https://twitter.com/CosmosEcosystem/status/1455079158367887361), [2-Juno](https://twitter.com/CosmosEcosystem/status/1455492127438393346), [3-Juno](https://twitter.com/CosmosEcosystem/status/1458874300157644805),<br />
 [4-Juno](https://twitter.com/CosmosEcosystem/status/1459920533496213511), [5-Juno](https://twitter.com/CosmosEcosystem/status/1461659786974576642), [6-Juno](https://twitter.com/CosmosEcosystem/status/1461980409282052099),<br />
